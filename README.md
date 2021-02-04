@@ -24,6 +24,9 @@
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.ideematic.com/wp-content/uploads/2018/02/mysql.png" alt="mysql" width="40" height="40"/> </a> 
  <a href="https://www.oracle.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/oracle-226044.png" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/cassandra-282570.png" alt="Cassandra" width="40" height="40"/> </a> 
+ <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" width="40" height="40"/> </a> 
+ <a href="https://cassandra.apache.org/" target="_blank"> <img src="http://www.smile.eu/sites/default/files/styles/picture_news_technology/public/2017-08/elastic.png?itok=x98WjZPg" alt="Elasticsearch" width="40" height="40"/> </a> 
+  <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.toulousejug.org/images/2012-06-08-nosql-neo4j/neo4j.png" alt="Neo4j" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://blog.cellenza.com/wp-content/uploads/2017/02/CSharpLogo.png" alt="csharp" width="40" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://fr.overleaf.com/" target="_blank"> <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/00/b7/20/00b72048-068f-6952-63be-6b3afae80cbf/source/256x256bb.jpg" alt="LaTeX" width="40" height="40"/> </a>  
