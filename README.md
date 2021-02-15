@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">I'm currently an apprentice student in engineering school studying Data & IA.</h3>
 
-- 🔭 I’m currently working on [a Machine Learning project about the bike demand in Seoul.](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand#)
+- 🔭 I’m currently working on [a Machine Learning project about Paris Saint Germain financial statements.](https://github.com/thomastrg/PSG_financial_statements#)
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning via Coursera**
 
