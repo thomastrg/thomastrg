@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">I'm currently an apprentice student in engineering school studying Data & IA.</h3>
 
-- 🔭 I’m currently working on [a Machine Learning project about Paris Saint Germain financial statements.](https://github.com/thomastrg/PSG_financial_statements#)
+- 🔭 I’m currently working on [a Deep Learning project about football players price market prediction.](https://github.com/thomastrg/Price_prediction_football_players) with my friend [Ikhlass](https://github.com/ikhlo)
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning via Coursera**
+- 🌱 I’m currently learning **Text mining and Deep Learning Optimization via Coursera**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
