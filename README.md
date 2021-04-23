@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">I'm currently an apprentice student in engineering school studying Data & IA.</h3>
 
-- 🔭 I’m currently working on [a Deep Learning project about football players price market prediction.](https://github.com/thomastrg/Price_prediction_football_players) with my friend [Ikhlass](https://github.com/ikhlo)
+- 🔭 I’m currently working on [a Deep Learning project about football players price market prediction](https://github.com/thomastrg/Price_prediction_football_players) with my friend [Ikhlass.](https://github.com/ikhlo)
 
 - 🌱 I’m currently learning **Text mining and Deep Learning Optimization via Coursera**
 
