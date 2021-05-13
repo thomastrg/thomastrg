@@ -16,7 +16,7 @@
  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org/?hl=fr" target="_blank"> <img src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/i1sxyymqcjhmxhz0xhaw" alt="tensorflow" width="40" height="40"/> </a> 
  <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
- <a href="https://www.r-project.org/" target="_blank"> <img src="https://i1.wp.com/datarockie.com/wp-content/uploads/2019/04/RSTUDIO-LOGO.png?ssl=1" alt="rstudio" width="40" height="40"/> </a>
+ <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.cartelis.com/wp-content/uploads/2020/04/rstudio-datascience.png" alt="rstudio" width="40" height="40"/> </a>
  <a href="https://www.docker.com/" target="_blank"> <img src="https://blog.engineering.publicissapient.fr/wp-content/uploads/2016/04/docker.png" alt="docker" width="40" height="40"/> </a> 
  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a>
