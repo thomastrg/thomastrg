@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a Deep Learning project about football players price market prediction](https://github.com/thomastrg/Price_prediction_football_players) with my friend [Ikhlass.](https://github.com/ikhlo)
 
-- 🌱 I’m currently learning **Deep Learning Optimization via Coursera**
+- 🌱 I’m currently learning **Deep Learning Optimization via Coursera & Deep Learning via IBM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
