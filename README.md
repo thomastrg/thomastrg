@@ -32,4 +32,31 @@
  <a href="https://fr.overleaf.com/" target="_blank"> <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/00/b7/20/00b72048-068f-6952-63be-6b3afae80cbf/source/256x256bb.jpg" alt="LaTeX" width="40" height="40"/> </a>  
   </p>
 
+
 [![thomastrg github stats](https://github-readme-stats.vercel.app/api?username=thomastrg)](https://github.com/thomastrg/github-readme-stats)
+
+
+# My Certificates
+
+| Specialization  | Course  | Language/Packages | Length | Institute | Certificate | 
+| --- | --- | --- | ---  | --- | --- |
+| Applied Data Science with Python | (see below) | Python | 20 weeks | The University of Michigan | https://www.coursera.org/account/accomplishments/specialization/certificate/KAR75V8W83ED
+| Applied Data Science with Python | Introduction to Data Science in Python  |   `pandas, numpy` | 4 weeks | The University of Michigan | https://www.coursera.org/account/accomplishments/certificate/VWJ68TM4GDNS |
+| Applied Data Science with Python | Applied Plotting, Charting & Data Representation in   |  `matplotlib` | 4 weeks | The University of Michigan |  https://www.coursera.org/account/accomplishments/certificate/3XZQDF2AWQBN |
+| Applied Data Science with Python | Applied Machine Learning in Python  |   `sklearn` | 4 weeks | The University of Michigan |  https://www.coursera.org/account/accomplishments/certificate/VK8U3SU6EVC7 |
+| Applied Data Science with Python | Applied Text Mining in Python |   `nltk` | 4 weeks | The University of Michigan |  https://www.coursera.org/account/accomplishments/certificate/UDRLKLV7Z3K7 |
+| Applied Data Science with Python | Applied Social Network Analysis in Python  |  `networkx` | 4 weeks | The University of Michigan |  https://www.coursera.org/account/accomplishments/certificate/U2X5B7KAXRES |
+|   |  |   |   |   | |
+| IBM AI Professional Certificate | Machine Learning with Python  | `sklearn` | 6 weeks | IBM |  https://www.coursera.org/account/accomplishments/certificate/ZD9DMTDZ9WE6 |
+| IBM AI Professional Certificate | Scalable Machine Learning on Big Data using Apache Spark  | `Spark, sklearn` | 6 weeks | IBM |  https://www.coursera.org/account/accomplishments/certificate/ZX2U9GGTDHCW |
+| IBM AI Professional Certificate | Introduction to Deep Learning & Neural Networks with Keras  | `Keras` | 6 weeks | IBM |  https://www.coursera.org/account/accomplishments/certificate/Y884957K36DQ |
+| IBM AI Professional Certificate | Deep Neural Network with Pytorch  | `PyTorch` | 6 weeks | IBM | https://www.coursera.org/account/accomplishments/certificate/CMPF3D4H9RQX |
+|   |  |   |   |   | |
+| Deep Learning | (see below)  | Python | 16 weeks | deeplearning.ai |   |
+|  Deep Learning | Neural Networks and Deep Learning | `Keras` | 4 weeks  | deeplearning.ai | https://www.coursera.org/account/accomplishments/certificate/EL57CSPRQF8P |
+|  Deep Learning | Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization | `Keras` | 3 weeks  | deeplearning.ai |  |
+|  Deep Learning | Structuring Machine Learning Projects | `Keras` | 2 weeks  | deeplearning.ai |  |
+|  Deep Learning | Convolutional Neural Network | `Keras` | 4 weeks  | deeplearning.ai |  |
+|  Deep Learning | Sequence Models | `Keras` | 3 weeks  | deeplearning.ai |  |
+
+
