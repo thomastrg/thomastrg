@@ -51,8 +51,7 @@
 | IBM AI Professional Certificate | Scalable Machine Learning on Big Data using Apache Spark  | `Spark, sklearn` | 6 weeks | IBM |  https://www.coursera.org/account/accomplishments/certificate/ZX2U9GGTDHCW |
 | IBM AI Professional Certificate | Introduction to Deep Learning & Neural Networks with Keras  | `Keras` | 6 weeks | IBM |  https://www.coursera.org/account/accomplishments/certificate/Y884957K36DQ |
 | IBM AI Professional Certificate | Deep Neural Network with Pytorch  | `PyTorch` | 6 weeks | IBM | https://www.coursera.org/account/accomplishments/certificate/CMPF3D4H9RQX |
-| IBM AI Professional Certificate | Building Deep Learning Models with TensorFlow
- | `TensorFlow` | 6 weeks | IBM | https://www.coursera.org/account/accomplishments/certificate/DZGCEENCTM7R |
+| IBM AI Professional Certificate | Building Deep Learning Models with TensorFlow| `TensorFlow` | 6 weeks | IBM | https://www.coursera.org/account/accomplishments/certificate/DZGCEENCTM7R |
 |   |  |   |   |   | |
 | Deep Learning | (see below)  | Python | 16 weeks | deeplearning.ai |   |
 |  Deep Learning | Neural Networks and Deep Learning | `Keras` | 4 weeks  | deeplearning.ai | https://www.coursera.org/account/accomplishments/certificate/EL57CSPRQF8P |
