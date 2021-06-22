@@ -3,7 +3,7 @@
 
 - 💼 I am currently working at [Enedis](https://www.enedis.fr/) as a data scientist apprentice.
 - 🔭 I’m currently working on a computer vision personnal project with the aim to do gender, age and sentiment recognition.
-- 🌱 I’m currently learning **Deep Learning Optimization via Coursera & Computer Vision & Recognition**
+- 🌱 I’m currently learning **Deep Learning Optimization via Coursera & Computer Vision Recognition**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
