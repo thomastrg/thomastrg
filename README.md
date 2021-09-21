@@ -19,8 +19,7 @@
  <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.cartelis.com/wp-content/uploads/2020/04/rstudio-datascience.png" alt="rstudio" width="40" height="40"/> </a>
  <a href="https://www.docker.com/" target="_blank"> <img src="https://blog.engineering.publicissapient.fr/wp-content/uploads/2016/04/docker.png" alt="docker" width="40" height="40"/> </a> 
  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
- <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a>
- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> 
+ <a href="https://www.mathworks.com/" target="_blank"> <img src="https://i1.wp.com/ittutorial.org/wp-content/uploads/2020/10/spark.jpeg?fit=618%2C348&ssl=1" alt="PySpark" width="40" height="40"/> </a>
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.ideematic.com/wp-content/uploads/2018/02/mysql.png" alt="mysql" width="40" height="40"/> </a> 
  <a href="https://www.oracle.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/oracle-226044.png" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/cassandra-282570.png" alt="Cassandra" width="40" height="40"/> </a> 
