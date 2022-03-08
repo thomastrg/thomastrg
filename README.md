@@ -2,7 +2,7 @@
 <h3 align="center">I'm currently an apprentice student in engineering school studying Data & IA.</h3>
 
 - 💼 I am currently working at [Enedis](https://www.enedis.fr/) as a data scientist apprentice.
-- 🔭 I’m currently working on LSTM RNN to model the evolution of some cryptocurrencies.
+- 🔭 I’m currently deploying an [application on Football](https://share.streamlit.io/thomastrg/recommandation_system_footballers_application/main/full_application.py) .
 - 🌱 I’m currently learning **Deep Learning Optimization via Coursera & Computer Vision Recognition**
 
 <h3 align="left">Connect with me:</h3>
