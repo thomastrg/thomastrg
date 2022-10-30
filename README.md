@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">I'm currently an apprentice student in engineering school studying Data & IA.</h3>
 
-- 💼 I am currently working at [Enedis](https://www.enedis.fr/) as a data scientist apprentice.
+- 💼 I am currently working at [Société Générale]([https://www.enedis.fr/](https://particuliers.societegenerale.fr/)) as a data scientist.
 - 🔭 I’m deployed a recommandation system [application on Football](https://share.streamlit.io/thomastrg/recommandation_system_footballers_application/main/full_application.py) that can be used to find the football player you need following your conditions.
 - 🌱 I’m currently learning **Deep Learning Optimization via Coursera & Computer Vision Recognition**
 
