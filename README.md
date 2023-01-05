@@ -3,7 +3,7 @@
 
 - 💼 I am currently working at [Société Générale](https://particuliers.societegenerale.fr/) as a data scientist.
 - 🔭 I’m deployed a recommandation system [application on Football](https://share.streamlit.io/thomastrg/recommandation_system_footballers_application/main/full_application.py) that can be used to find the football player you need following your conditions.
-- 🌱 I’m currently learning **Deep Learning Optimization via Coursera & Computer Vision Recognition**
+- 🌱 I’m currently learning **Data Engineering basis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
