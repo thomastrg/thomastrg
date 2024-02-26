@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">Welcome ☀️ Here you will find all my personal projects </h3>
 
-- 💼 I am currently working at [Société Générale](https://particuliers.societegenerale.fr/) as a data scientist.
-- 🔭 I deployed a recommandation system [application on Football](https://7ihxrytjgcmhinmvjatkcm.streamlit.app/) that can be used to find the football player you need following your conditions.
+- 💼 I am currently working at [Société Générale](https://particuliers.societegenerale.fr/) as a data scientist
+- 🔭 I deployed a recommandation system [application on Football](https://7ihxrytjgcmhinmvjatkcm.streamlit.app/) that can be used to find the football player you need following your conditions
 - 📚 Currently following training on  **GCP BigQuery**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">To connect with me :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/thomas-trang100/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/thomas-trang100/" height="30" width="40" /></a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <p align="left"> 
  <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> 
  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
@@ -31,10 +31,6 @@
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://fr.overleaf.com/" target="_blank"> <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/00/b7/20/00b72048-068f-6952-63be-6b3afae80cbf/source/256x256bb.jpg" alt="LaTeX" width="40" height="40"/> </a>  
   </p>
-
-
-[![thomastrg github stats](https://github-readme-stats.vercel.app/api?username=thomastrg)](https://github.com/thomastrg/github-readme-stats)
-
 
 # My Certificates
 
